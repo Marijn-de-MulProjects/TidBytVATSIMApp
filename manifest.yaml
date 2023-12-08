@@ -1,0 +1,8 @@
+---
+id: tidbytvatsimapp
+name: TidBytVATSIMApp
+summary: 'VATSIM Network Info. '
+desc: This app provides the user with information about the selected airport pulled from the VATSIM NETWORK.
+author: Marijn-de-Mul
+fileName: tidbytvatsimapp.star
+packageName: tidbytvatsimapp
